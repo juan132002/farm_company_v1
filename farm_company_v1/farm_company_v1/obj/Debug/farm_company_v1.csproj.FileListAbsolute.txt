@@ -1,0 +1,7 @@
+C:\Users\JCAO\Documents\GitHub\farm_company_v1\farm_company_v1\farm_company_v1\bin\Debug\farm_company_v1.exe.config
+C:\Users\JCAO\Documents\GitHub\farm_company_v1\farm_company_v1\farm_company_v1\bin\Debug\farm_company_v1.exe
+C:\Users\JCAO\Documents\GitHub\farm_company_v1\farm_company_v1\farm_company_v1\bin\Debug\farm_company_v1.pdb
+C:\Users\JCAO\Documents\GitHub\farm_company_v1\farm_company_v1\farm_company_v1\obj\Debug\farm_company_v1.csprojAssemblyReference.cache
+C:\Users\JCAO\Documents\GitHub\farm_company_v1\farm_company_v1\farm_company_v1\obj\Debug\farm_company_v1.csproj.CoreCompileInputs.cache
+C:\Users\JCAO\Documents\GitHub\farm_company_v1\farm_company_v1\farm_company_v1\obj\Debug\farm_company_v1.exe
+C:\Users\JCAO\Documents\GitHub\farm_company_v1\farm_company_v1\farm_company_v1\obj\Debug\farm_company_v1.pdb
